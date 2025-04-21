@@ -12,5 +12,5 @@
 
 ### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,md" />
 </a>
